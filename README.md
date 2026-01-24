@@ -1,7 +1,7 @@
 # About
 
 
-Unofficial wrapper for Perplexity, providing a native Linux desktop experince.
+Unofficial wrapper for Perplexity, providing a native Linux desktop experience.
 
 ## Disclaimer
 
